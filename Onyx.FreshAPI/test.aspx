@@ -18,7 +18,7 @@
 <script>
 
 var person = {
-    name: "Bob",
+    name: "Joe Doe",
     address: "123 Main St",
     phone: "555-5555"
 }
